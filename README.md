@@ -15,5 +15,7 @@ This folder includes the outputs of the experiments gathered by three commands:
 
 The output folder contains the data for training Alexnet, APS, LSTM, NAS, Resnet-18, Transformer_base,Vgg-16, and Wavenet models for a few epochs. The output_multi_jobs contains the data for running APS and LSTM models on the same set of GPUs. The outputs_n_GPUs contains the data for training Vgg-16 on different number of GPUs with different batch sizes. 
 
+### notebooks
+The experiments data can be loaded and processed by the notebooks in this folder.
 
-The data is loaded and processed by notebooks
+### 
