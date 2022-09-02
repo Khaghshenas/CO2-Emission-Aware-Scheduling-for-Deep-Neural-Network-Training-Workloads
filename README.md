@@ -2,8 +2,8 @@
 
 This repository contains the experiments data of the paper "CO2-Emission-Aware-Scheduling-for-Deep-Neural-Network-Training-Workloads".
 
-##Directory Structure
-###Data_logs
+## Directory Structure
+### Data_logs
 
 This folder includes the outputs of the experiments gathered by three commands:
 
